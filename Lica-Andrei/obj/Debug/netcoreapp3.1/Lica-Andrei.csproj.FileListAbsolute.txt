@@ -1,0 +1,14 @@
+C:\Users\IO\source\repos\Lica-Andrei\bin\Debug\netcoreapp3.1\Lica-Andrei.exe
+C:\Users\IO\source\repos\Lica-Andrei\bin\Debug\netcoreapp3.1\Lica-Andrei.deps.json
+C:\Users\IO\source\repos\Lica-Andrei\bin\Debug\netcoreapp3.1\Lica-Andrei.runtimeconfig.json
+C:\Users\IO\source\repos\Lica-Andrei\bin\Debug\netcoreapp3.1\Lica-Andrei.runtimeconfig.dev.json
+C:\Users\IO\source\repos\Lica-Andrei\bin\Debug\netcoreapp3.1\Lica-Andrei.dll
+C:\Users\IO\source\repos\Lica-Andrei\bin\Debug\netcoreapp3.1\Lica-Andrei.pdb
+C:\Users\IO\source\repos\Lica-Andrei\obj\Debug\netcoreapp3.1\Lica-Andrei.csproj.AssemblyReference.cache
+C:\Users\IO\source\repos\Lica-Andrei\obj\Debug\netcoreapp3.1\Lica-Andrei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IO\source\repos\Lica-Andrei\obj\Debug\netcoreapp3.1\Lica-Andrei.AssemblyInfoInputs.cache
+C:\Users\IO\source\repos\Lica-Andrei\obj\Debug\netcoreapp3.1\Lica-Andrei.AssemblyInfo.cs
+C:\Users\IO\source\repos\Lica-Andrei\obj\Debug\netcoreapp3.1\Lica-Andrei.csproj.CoreCompileInputs.cache
+C:\Users\IO\source\repos\Lica-Andrei\obj\Debug\netcoreapp3.1\Lica-Andrei.dll
+C:\Users\IO\source\repos\Lica-Andrei\obj\Debug\netcoreapp3.1\Lica-Andrei.pdb
+C:\Users\IO\source\repos\Lica-Andrei\obj\Debug\netcoreapp3.1\Lica-Andrei.genruntimeconfig.cache
